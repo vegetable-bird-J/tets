@@ -1,10 +1,14 @@
 {
   "name": "github-test",
   "version": "1.0.0",
+  "type": "module",
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
     "vite": "^8.3.8"
   },
   "dependencies": {
-    "animejs": "^4.5.0"
+    "animejs": "^4.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
   }
 }
